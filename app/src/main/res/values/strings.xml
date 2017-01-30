@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mascota</string>
+    <string name="pnobre">Nombre</string>
+    <string name="praiting">0</string>
+    <string name="action_favoritos">Favoritos</string>
+    <string name="tituloDetalle">Los 5 Favoritos</string>
+
+</resources>
